@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.19.1
+pykml==0.2.0
+lxml==4.9.3
+requests==2.31.0
